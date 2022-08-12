@@ -1,5 +1,5 @@
  <center>
-     <h1>XXX</h1>
+     <h1>邵晔洋</h1>
  </center>
 
 ## 个人信息
@@ -10,13 +10,18 @@
 
 ## 工作及教育经历
 
-- 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; 测控技术与仪器专业-本科
+- 东北大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp;
+- 测控技术与仪器专业-控制工程学院-本科
 
 ## 专业技能
 
-- 熟练使用 C++，掌握 Go，了解 Java、Python、PHP 等编程语言
-- 掌握基础数据结构和算法的基本原理
-- 等等
+-熟悉 HTML,CSS 及 Less,Sass  
+-熟悉 JavaScript 基础及 ES6 常用特性  
+-熟悉浏览器工作原理，TCP/IP 协议及 HTTP 协议，状态码  
+-熟悉 Ajax，Axios，Promise，完成过 Promise 的自定义封装  
+-了解 Git 相关操作  
+-了解 React 框架，较熟练使用 AntD 组件库进行开发  
+-了解 webpack，vite
 
 ## 项目经历
 
